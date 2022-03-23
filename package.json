@@ -1,6 +1,6 @@
 {
   "name": "eth_hdwallet_generator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Arex360/eth_wallet_generator.git"
   },
-  "keywords": [],
+  "keywords": [
+    "ETH wallet",
+    "Ethereum wallet",
+    "ETH HD Wallet Generator",
+    "Generate ETH wallet",
+    "ETH wallet with Mnemonics"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
