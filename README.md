@@ -54,5 +54,3 @@ recoverWallet(mnemonic).then(wallet=>{
 ## Special Thanks 
 This package came into existance because of [tboydston]('https://www.npmjs.com/package/hdaddressgenerator') wallet generator, We added support for Mnemonics only
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
