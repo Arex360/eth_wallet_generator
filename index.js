@@ -19,5 +19,6 @@ let recoverWallet = async(mnemonic)=>{
 }
 module.exports= {
     GenerateWallet,
-    recoverWallet
+    recoverWallet,
+    GenerateMneMonic
 }
